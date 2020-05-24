@@ -11,14 +11,15 @@ int main() {
 	double hourly_Rate;// hold rate of pay
 	double hours_Worked;//hold hours worked
 
+//get user first name, last name
+cout << "Please enter your First and Last name:";
+cin >> first_Name >> last_Name; 
 
+//get employee id #Brie Todo
 
-
-//get user first name, last name, employee id, hours worked, amount paid
-
+//get hours worked #Brie Todo
 
 //perform calculations for net and gross income
-
 
 //Print out what employee is getting paid
 
